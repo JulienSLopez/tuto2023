@@ -1,5 +1,5 @@
-# tuto2023
+# tutorial 2023
 
-- 1e ligne
-- 2e ligne
-- 3e ligne via web
+- 1st line
+- 2nd line
+- 3d line via web
